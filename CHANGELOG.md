@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.16.1](https://www.github.com/googleapis/java-spanner-jdbc/compare/v1.16.0...v1.16.1) (2020-07-16)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.8.3 ([#180](https://www.github.com/googleapis/java-spanner-jdbc/issues/180)) ([b446d48](https://www.github.com/googleapis/java-spanner-jdbc/commit/b446d48e40973ef03ec1d3c470a338c371b967a1))
+
 ## [1.16.0](https://www.github.com/googleapis/java-spanner-jdbc/compare/v1.15.0...v1.16.0) (2020-07-08)
 
 
